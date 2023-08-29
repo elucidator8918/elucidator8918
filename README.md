@@ -24,6 +24,28 @@ I'm a Sophomore Computer Engineering Student at Dwarkadas Sanghvi College of Eng
 - 🌱 Summer ML Research Intern at Delhi Technical University, working on a Flutter application and medical-based deep learning models
 - 🚀 Open Source Research Developer for Qiskit & QIMP at Quantum Open Source Foundation, currently working on a research paper regarding Quantum Image Enhancement in the Sustainable Energy Sector.
 
+<p dir="auto">Here you will find some of the most relevant badges earned, for a complete list, please <a href="https://www.credly.com/users/siddhant-dutta/badges" rel="nofollow">click here</a>.</p>
+
+<h3 dir="auto"><a id="user-content-project-management" class="anchor" aria-hidden="true" href="#project-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Quantum Computing</h3>
+
+<a href="https://www.credly.com/badges/11b510c9-c998-4edf-8ffe-c6000f8139d7" rel="nofollow">
+    <img src="https://images.credly.com/size/340x340/images/fcc8af64-3b96-45a2-b6a1-60da06f309f0/image.png" width="140" height="140" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/badges/62f935a9-d808-475e-bf36-fa04cb874a44" rel="nofollow">
+    <img src="https://images.credly.com/size/340x340/images/7f8d686d-dae3-4d9f-8275-fbd449b4008e/IBM_Certified_Associate_Developer_-_Quantum_Computation_using_Qiskit_v0.2X.png" width="140" height="140" style="max-width: 100%;">
+</a>
+
+<a href="https://www.credly.com/badges/f4e77709-b497-4707-b864-886a6d5a9861" rel="nofollow">
+    <img src="https://images.credly.com/size/340x340/images/9ea2c759-2222-4b5d-80b7-6873e8def83b/image.png" width="140" height="140" style="max-width: 100%;">
+</a>
+
+<h3 dir="auto"><a id="user-content-project-management" class="anchor" aria-hidden="true" href="#project-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Microsoft Azure</h3>
+
+<a href="https://www.credly.com/badges/9a29b213-dc47-4580-b065-72aa2734fe7c" rel="nofollow">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="140" height="140" style="max-width: 100%;">
+</a>
+
 # 📊 GitHub Stats:
 ![elucidator8918's Stats](https://github-readme-stats.vercel.app/api?username=elucidator8918&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
