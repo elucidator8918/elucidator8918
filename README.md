@@ -70,3 +70,4 @@ I'm a Sophomore Computer Engineering Student at Dwarkadas Sanghvi College of Eng
 - 📧 Email: forsomethingnewsid@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/siddhant-dutta-3b99291b0/](https://www.linkedin.com/in/siddhant-dutta-30260315a/)
 - 🐱 GitHub: [github.com/elucidator8918](https://github.com/elucidator8918)
+- ⛩️ ResearchGate: [https://www.researchgate.net/profile/Siddhant-Dutta-2](https://www.researchgate.net/profile/Siddhant-Dutta-2)
