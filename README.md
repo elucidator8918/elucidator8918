@@ -1,8 +1,8 @@
-# Helloo Awesie people of the world, I'm Siddhant Dutta 👋
+# Helloo Awesie people of the world, I am Siddhant 👋
 
-I'm a Third-year Computer Engineering Student at Dwarkadas Sanghvi College of Engineering in Mumbai, India. I'm passionate about quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
+I am a third-year Computer Engineering Student at Dwarkadas Sanghvi College of Engineering in Mumbai, India. I'm passionate about quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
 
-![](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+![](mash.gif)
 
 ## My Experience
 
