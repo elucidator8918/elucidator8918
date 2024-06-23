@@ -1,8 +1,9 @@
 # Helloo Awesie people of the world, I am Siddhant 👋
 
-I am a third-year Computer Engineering Student at Dwarkadas Sanghvi College of Engineering in Mumbai, India. I'm passionate about quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
+I am a third-year Computer Engineering Student at Dwarkadas Sanghvi College of Engineering in Mumbai, India. I'm passionate about quantum computing, machine learning, and developing innovative solutions to solve
+ real-world problems. 
 
-![](mash.gif)
+![sakura-cherry-blossoms](https://github.com/elucidator8918/elucidator8918/assets/113273376/8c8ebe3a-a588-4550-91fd-ee4090df4c9d)
 
 ## My Experience
 
