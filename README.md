@@ -61,13 +61,13 @@ I am a final-year Computer Engineering Student at Dwarkadas Sanghvi College of E
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=elucidator8918&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="elucidator8918's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=elucidator8918&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="elucidator8918's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=elucidator8918&theme=vue-dark&hide_border=true" alt="elucidator8918's Coding Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=elucidator8918&theme=tokyonight&hide_border=true" alt="elucidator8918's Coding Streak" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elucidator8918&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="elucidator8918's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elucidator8918&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="elucidator8918's Top Languages" />
       </td>
     </tr>
   </table>
