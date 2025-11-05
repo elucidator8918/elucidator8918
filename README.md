@@ -3,7 +3,7 @@
 I am a first-year CCDS Ph.D Student at NTU Singapore. I'm passionate about computational neuroscience, quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
 
 <div align="center" style="display: flex; align-items: center; gap: 10px;">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BAMF7&center=true&vCenter=true&width=435&lines=Quantum+Computing+Researcher;Machine+Learning+Enthusiast;Research+Collaborator;Qiskit+Advocate" alt="Typing SVG" height=100/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BAMF7&center=true&vCenter=true&width=435&lines=Computational+Neuroscience;Quantum+Computing+Researcher;Machine+Learning+Enthusiast;Research+Collaborator;Qiskit+Advocate" alt="Typing SVG" height=100/>
   <img src="https://github.com/elucidator8918/elucidator8918/assets/113273376/8c8ebe3a-a588-4550-91fd-ee4090df4c9d" alt="sakura-cherry-blossoms">
   
 </div>
