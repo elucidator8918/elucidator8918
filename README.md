@@ -1,6 +1,6 @@
 # Helloo Awesie people of the world, I am Siddhant 👋
 
-I am a final-year Computer Engineering Student at Dwarkadas Sanghvi College of Engineering in Mumbai, India. I'm passionate about quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
+I am a first-year CCDS Ph.D Student at NTU Singapore. I'm passionate about computational neuroscience, quantum computing, machine learning, and developing innovative solutions to solve real-world problems. 
 
 <div align="center" style="display: flex; align-items: center; gap: 10px;">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BAMF7&center=true&vCenter=true&width=435&lines=Quantum+Computing+Researcher;Machine+Learning+Enthusiast;Research+Collaborator;Qiskit+Advocate" alt="Typing SVG" height=100/>
